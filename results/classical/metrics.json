@@ -1,0 +1,6 @@
+{
+  "method": "isolation_forest",
+  "contamination": 0.05,
+  "roc_auc": 0.9449826989619377,
+  "avg_precision": 0.7379998411267517
+}

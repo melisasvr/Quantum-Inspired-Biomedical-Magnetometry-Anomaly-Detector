@@ -1,0 +1,7 @@
+{
+  "squeezing_r": 0.8,
+  "noise_reduction_dB": 6.948711688249221,
+  "sensitivity_gain": 2.033622467289532,
+  "roc_auc": 0.9449826989619377,
+  "avg_precision": 0.7379998411267517
+}
